@@ -1,5 +1,7 @@
 ![Project unmaintained](https://img.shields.io/badge/project-unmaintained-red.svg)
 
+**NOTE: This is no longer required as it's included in KeyCloak by default as of 4.5.0. See here: https://issues.jboss.org/browse/KEYCLOAK-7270?_sscc=t. While 4.5.0 isn't out yet, the docs can be seen in this PR: https://github.com/keycloak/keycloak-documentation/pull/435.**
+
 # Keycloak: Link IdP Login with User Provider
 
 When using an external identity provider, [Keycloak](https://keycloak.jboss.org)
